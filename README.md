@@ -2,6 +2,12 @@
 
 This is an Angular-based dashboard application featuring various UI components, charts, and tables. It provides a clean, responsive layout and includes authentication pages such as login and register. The application also integrates with Tabler icons for enhanced visual elements.
 
+## Live [demo](https://melodic-kangaroo-f8d710.netlify.app/dashboard)
+
+![image](https://github.com/user-attachments/assets/8544509a-d355-4d18-b683-a9ab7b159ed4)
+![image](https://github.com/user-attachments/assets/f3ef2a68-894f-451e-a2fe-58c608afa639)
+![image](https://github.com/user-attachments/assets/608a0e45-0bdb-4052-a4b1-4becf270f276)
+
 ## Features
 
 - **Dashboard**: Includes charts and tables for data visualization.
